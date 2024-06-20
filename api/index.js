@@ -16,6 +16,8 @@ mongoose
     console.log('MongoDb is connected');
   })
   .catch((err) => {
+    console.log('MongoDb is not connect');
+
     console.log(err);
   });
 
