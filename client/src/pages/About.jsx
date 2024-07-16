@@ -8,7 +8,7 @@ export default function About() {
           </h1>
           <div className='text-md text-gray-500 flex flex-col gap-6'>
             <p>
-              Welcome to Rawat's Blog! This blog was created by Rawat Ghavidel
+              Welcome to Rawat's Blog! This blog was created by Himanshu Rawat
               as a personal project to share his thoughts and ideas with the
               world. Rawat is a passionate developer who loves to write about
               technology, coding, and everything in between.
